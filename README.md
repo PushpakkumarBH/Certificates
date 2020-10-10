@@ -1,7 +1,7 @@
 ## Bolt Live Online Workshop on IoT and ML
 ![](https://github.com/PushpakkumarBH/Certificates/blob/master/images/Pushpakkumar%20BH%20-%20Live%20online%20workshop%20.jpg)
 ## Bolt Technoshots Certificate [HTML,CSS,JS]
-![](https://github.com/PushpakkumarBH/Certificates/blob/master/images/Pushpakkumar%20BH%20-%20TechnoShots%20completion%20certificate.png)
+![](https://github.com/PushpakkumarBH/Certificates/blob/master/images/html.png)
 ## Google Cloud Certificate
 ![](https://github.com/PushpakkumarBH/Certificates/blob/master/images/C50F8F97-EBE6-4E64-8EF9-A0672092D16C.jpeg)
 ## Android Development Certificate
